@@ -1,0 +1,17 @@
+{
+  "name": "budget-app",
+  "version": "1.0.0",
+  "description": "Budget Management App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "Paul Calzado",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
